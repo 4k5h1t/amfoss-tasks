@@ -1,0 +1,20 @@
+num_lines = int(input())
+sum = list()
+
+iterator = int(0)
+while(iterator < num_lines):
+    sum.append(int(0))
+    check_pos = int(input())
+    line = input().split()
+    if check_pos < len(line):
+        check_word = list(line[check_pos])
+        for x in check_word:
+            sum[iterator] += ord(x)
+    else:
+        sum[iterator] = -1
+    iterator += 1
+    
+iterator = int(0)
+while(iterator < num_lines):
+    print(sum[iterator])
+    iterator += 1
