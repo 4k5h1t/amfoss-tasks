@@ -1,0 +1,12 @@
+num_types = int(input())
+req_types = input().split()
+available_types = input().split()
+quotient_list = list()
+
+iterator = int(0)
+while iterator < num_types:
+    quotient_list.append(int(int(available_types[iterator])/int(req_types[iterator])))
+    iterator += 1
+
+quotient_list.sort()
+print(quotient_list[0])
