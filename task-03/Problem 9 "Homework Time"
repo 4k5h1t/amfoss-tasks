@@ -1,0 +1,54 @@
+count = int(input())
+iterator = int(0)
+num_list = list()
+
+while iterator < count:
+    num_list.append(int(input()))
+    iterator += 1
+    
+def find_incnum(num):
+    iterator = int(0)
+    num1 = int(1)
+    num2 = int(2)
+    num3 = int(3)
+    num4 = int(0)
+    if num > 3:
+        while iterator < num-3:
+            num4 = (num1 + num2 + num3)%(pow(10, 9) + 7)
+            iterator += 1
+            if iterator == num-3:
+                return num4
+            else:
+                temp = num4
+                num4 = 0
+                temp2 = num3
+                num3 = temp
+                temp = num2
+                num2 = temp2
+                num1 = temp
+                continue
+    else:
+        if num == 1:
+            return num1
+        elif num == 2:
+            return num2
+        elif num == 3:
+            return num3         
+        else:
+            return -1
+
+def find_rev(num):
+    reverse = int(0)
+    while num > 0:
+        reverse *= 10
+        reverse += num%10
+        num = int(num/10)
+    return reverse
+
+iterator = int(0)
+while iterator < count:
+    ans = int(0)
+    ans = int(find_incnum(num_list[iterator]))
+    ans = int(find_rev(ans))    
+    print(ans)
+    iterator += 1    
