@@ -1,0 +1,23 @@
+try:
+    num_cases = int(input())
+    looper = int(0)
+    while looper <= num_cases:
+        line_1 = input().split()
+        assigned = input().split()
+        available = input().split()
+        N = int(line_1[0])
+        M = int(line_1[1])
+        K = int(line_1[2])
+    
+        available.sort(reverse = True)
+        i = int(0)
+        while N > 0:
+            check = int(available[i])
+            N -= check
+            i += 1
+        if i > K:
+            print("NO")
+        else:
+            print("YES")
+        looper += 1
+except EOFError as e : pass
