@@ -1,0 +1,27 @@
+set_para = input().split()
+num_houses = int(set_para[0])
+num_orders = int(set_para[1])
+owner_list = input().split()
+order_list = input().split()
+ans = list()
+
+for x in order_list:
+    iterator = int(len(owner_list) - 1)
+    check = int(0)
+    while iterator >= 0:
+        if owner_list[iterator] == x:
+            owner_list[iterator] = int(0)
+            ans.append(iterator + 1)
+            iterator -= 1
+            check = 1
+            break
+        else:
+            iterator -= 1
+    if check != 1:
+        ans.append(-1)
+        continue
+    else:
+        continue
+
+        
+print(*ans)
