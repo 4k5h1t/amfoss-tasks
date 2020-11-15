@@ -1,0 +1,25 @@
+num_tests = int(input())
+looper = int(0)
+
+while looper < num_tests:
+    inputs = input().split()
+    num_bags = int(inputs[0])
+    k = int(inputs[1])
+    moneys1 = input().split()
+    moneys = list(map(int, moneys1))
+    products = list()
+    i = int(0)
+    while i < num_bags:
+        j = int(0)
+        p = int(1)
+        while j < num_bags:
+            if i == j:
+                p *= (moneys[i]-k)
+            else:
+                p *= moneys[j]
+            j += 1
+        products.append(p)
+        i += 1
+    print(max(products))
+    
+    looper += 1
