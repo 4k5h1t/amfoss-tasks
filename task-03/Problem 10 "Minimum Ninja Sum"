@@ -1,0 +1,35 @@
+tests = int(input())
+looper = int(0)
+
+def create_nin_sums(N, K):
+    nin_sums = list()
+    i = int(0)
+    while i <= (len(N) - K) :
+        j = int(i)
+        sum = int(0)
+        while j <= i+K-1 :
+            x = int(N[j])
+            sum += x
+            j += 1
+        nin_sums.append(sum)
+        i += 1
+    return nin_sums
+
+while looper < tests:
+    inputs = input().split()
+    N = inputs[0]
+    K = int(inputs[1])
+    
+    if K > len(N):
+        print(-1)
+        looper += 1
+        continue
+    nin_sums = create_nin_sums(N, K)
+    differences = list()
+    i = int(0)
+    while i <= len(N)-K-1:
+        differences.append(abs(nin_sums[i] - nin_sums[i+1]))
+        i += 1
+    print(min(differences))
+    
+    looper += 1
