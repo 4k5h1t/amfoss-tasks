@@ -1,0 +1,14 @@
+ssh bandit10@bandit.labs.overthewire.org -p2220
+
+bandit0                            --------> For Level 0 
+boJ9jbbUNNfktd78OOpsqOltutMc3MY1   --------> For Level 0 to Level 1
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9   --------> For Level 1 to Level 2
+UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK   --------> For Level 2 to Level 3
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB   --------> For Level 3 to Level 4
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh   --------> For Level 4 to Level 5
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7   --------> For Level 5 to Level 6
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs   --------> For Level 6 to Level 7
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV   --------> For Level 7 to Level 8
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR   --------> For Level 8 to Level 9
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk   --------> For Level 9 to Level 10
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR   --------> For Level 10 to Level 11
