@@ -1,0 +1,16 @@
+test_num = int(input())
+looper = int(0)
+while looper < test_num:
+    N = int(input())
+    ans = int(0)
+    iterator = int(3)
+    while iterator < N:
+        ans += iterator
+        iterator += 3
+    iterator = 5
+    while iterator < N:
+        if iterator%3 != 0 :
+            ans += iterator
+        iterator += 5
+    print(ans)
+    looper += 1
