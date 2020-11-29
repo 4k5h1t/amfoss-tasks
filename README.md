@@ -10,8 +10,8 @@ Tasks for recruitment into amFOSS (2020)!
 | [task-02](amfoss-tasks/task-02) | Register your nick in IRC Freenode | Done!!|
 | [task-03](amfoss-tasks/task-03) | Programming (HackerRank) | 90% Completed |
 | [task-04](amfoss-tasks/task-04) | Debugging Derbies | Done!!|
-| [task-14](amfoss-tasks/tasks-14)| Bandit | Done!!|
-| [task-11]| Poster Design | Done!! (Please excuse the creative choices)|
+| [task-14](amfoss-tasks/task-14) | Bandit | Done!!|
+| [task-11](amfoss-tasks/task-11)  | Poster Design | Done!! (Please excuse the creative choices)|
 | [task-15](amfoss-tasks/task-15) | Euler Project | 60% Complete (Needs to be optimized!)|
 
 ## These are the tasks I couldn't complete, but will finish! (in order of level of completion)
