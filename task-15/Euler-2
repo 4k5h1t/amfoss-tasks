@@ -1,0 +1,30 @@
+tests = int(input())
+looper = int(0)
+
+def fibonacci (N):
+    fib_nums = list()
+    n1 = 1
+    n2 = 2
+    fib_nums.append(n1)
+    fib_nums.append(n2)
+    count = 2
+    while count < N:
+        n3 = n1 + n2
+        n1 = n2
+        n2 = n3
+        count += 1
+        fib_nums.append(n3)  
+    return fib_nums
+    
+
+while looper < tests:
+    N = int(input())
+    A = fibonacci (N)
+    fibsum = int(0)
+    i = int(0)
+    while A[i] < N:
+        if A[i]%2 == 0:
+            fibsum += A[i]
+        i += 1
+    print(fibsum)
+    looper += 1
