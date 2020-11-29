@@ -1,4 +1,5 @@
 # Task-00: Installing Ubuntu 20.04
+## Loving it btw!
 ## My Experience:
 ### I have been meaning to start using Linux for a while now, and I have finally done it, I chose the Ubuntu 20.04 distro and the installation and setting up process went something like this...:-
 >>1. Downloaded Ubuntu 20.04 LTS from the site, as well as balena.io to burn the iso (format that the Ubuntu software is in, so that it can be burned to a disc or USB drive)
