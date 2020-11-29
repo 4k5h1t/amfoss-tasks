@@ -36,4 +36,13 @@ I thoroughly enjoyed my experience working on these tasks and it cemented my des
 ## My Experience with the process as a whole.
 To condense it down, it was fun!! Every concept, joke and pseudo-easter egg references (like the pokemon-gyms, Rich Tony Poor Spidey, Infinity Stones, Geddit(that was a weird pun)) made me feel like the club comprised of people similar to me, 'cause those were stuff I would've put in the tasks, just to make it more enjoyable. My (psyduck)gym-trainer, Yash was extremely helpful and answered my doubts in a very timely manner, which I appreciated a lot because I had gotten my email late and was a bit stressed. Overall it was a very informative and fun experience and I am looking forward to meeting the club irl.
 
+## Who am I
+Get ready for this part, I was born in Chennai, but I am from Thrissur/Palakkad, Kerala. I lived most of my life in Dubai (til 8th), when I was interested in almost everything, but mainly science and specifically tech. 
+In all these years I was the quintessential nerd/geek, anime, reading and checking Inspect element on some random quizzes we were assigned (and I have a lot of hobbies, its in the poster). 
+Then I moved to a boarding school in Coimbatore (CIRS) for my 9th and 10th and my family moved back to Kerala, but to Kochi. 
+Between 10th and 11th was when I discovered my passion for coding and started learning some basic programming 
+I finished my 11th and 12th in Kochi, and joined Amrita cause it was the best college I could get CSE in, also the GSoC history was amazing and I really want to join Google's R & D.
+So that's basically how I got here and where I intend to go, some of the qualities I picked up along the way are, helpfulness, honesty, ambition (and along with it, determination), a sense for sarcasm (and a fitting snarky attitude), organization and leadership skills (though I am an introvert for the most part) and rational optimism. And if you actually read all this can you dm me?
+
+
 ## Thanks For the Experience!!!
