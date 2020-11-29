@@ -42,7 +42,7 @@ In all these years I was the quintessential nerd/geek, anime, reading and checki
 Then I moved to a boarding school in Coimbatore (CIRS) for my 9th and 10th and my family moved back to Kerala, but to Kochi. 
 Between 10th and 11th was when I discovered my passion for coding and started learning some basic programming 
 I finished my 11th and 12th in Kochi, and joined Amrita cause it was the best college I could get CSE in, also the GSoC history was amazing and I really want to join Google's R & D.
-So that's basically how I got here and where I intend to go, some of the qualities I picked up along the way are, helpfulness, honesty, ambition (and along with it, determination), a sense for sarcasm (and a fitting snarky attitude), organization and leadership skills (though I am an introvert for the most part) and rational optimism. And if you actually read all this can you dm me?
+So that's basically how I got here and where I intend to go, some of the qualities I picked up along the way are, helpfulness, honesty, ambition (and along with it, determination), a sense for sarcasm (and a fitting snarky attitude), organization and leadership skills (though I am an introvert for the most part), rational optimism and a self sufficient nature. And if you actually read all this can you dm me on discord XD?
 
 
 ## Thanks For the Experience!!!
