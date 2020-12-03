@@ -18,7 +18,6 @@ Tasks for recruitment into amFOSS (2020)!
 ## These are the tasks I couldn't complete, but will finish! (in order of level of completion)
 | Task No. | Task name | Status |
 |----------|-----------|--------|
-| [task-08] | Sir Perceval's Quest | Working on it!! (very close to cracking it)|
 | [task-07] | Ubiquitous UI | Working on it!!|
 | [task-05] | Rustic Scraper | Working on it!!|
 | [task-09] | Spammer Spaghetti | Working on it!!|
